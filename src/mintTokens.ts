@@ -1,6 +1,6 @@
 
-export const mintTokens = async (fromAddress: string, toAddress: string, amount: number) => {
-    console.log("Minting tokens");
+export const mintTokens = async (fromAddress: string, amount: number) => {
+    
 }
 
 export const burnTokens = async (fromAddress: string, toAddress: string, amount: number) => {
